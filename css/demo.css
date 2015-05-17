@@ -1,0 +1,53 @@
+*{margin:0px; padding:0px;}
+
+ul li{ list-style:none;}
+.nav-width{ height:75px;}
+.warping{ width:100%; background:#2b2b2b; height:80px;}
+
+.navtop ul{margin-left:60px; margin-top:10px; float:left;}
+
+.navtop a img{ border:0px; padding:0px; margin:0px;}
+.formdiv input{ background:#434343 url(../images/ico_tall.jpg) no-repeat right center;}
+.navtop ul li a{ font:18px "微软雅黑"; color:#FFF;}
+.bg1 img{ display:block; margin:0 auto;}
+#bgculor1{ background:#03ADDE;}
+#bgculor2{ background:#FF9000;}
+#bgculor3{ background:#110438;}
+.slide a{ padding-top:200px;}
+.slide{ margin-bottom:20px;}
+.colpad{ margin-bottom:20px;}
+.toph1{display: inline-block;vertical-align: middle; font:24px "微软雅黑";float:left;font-size: 24px;color: #333333;font-weight: bold; padding-left:10px;background:url(../images/leftico.jpg) no-repeat left center;}
+.righttop a{ float:right; background:url(../images/jo_more.png) no-repeat; width:89px; height:28px; display:block; }
+.listbox{ width:220px; height:210px; position:relative; overflow:hidden; cursor:pointer; margin:0 auto; border:2px solid #CCC;}
+.txtb{width:220px;}
+.txtb p{ margin-top:10px; text-indent:30px;}
+.txtb p.bg1{background:url(../images/jo_time.png) no-repeat 5px center;}
+.txtb p.bg2{ background:url(../images/jo_person.png) no-repeat 5px center;}
+.txtb p.bg2 span{ font-size:14px; color:#ef8656; margin-right:15px;}
+.showdiv{ width:220px; height:0px; background:#F2F2F2; position:absolute; bottom:-10px; left:0px; padding:5px 10px;}
+.showdiv a{ font:12px "宋体";}
+.showdiv a.btn{ margin-left:60px;}
+.row{ margin-bottom:20px;}
+.col-md-3{ margin-bottom:20px;}
+.content_middle{width:100%;background:#f7f7f7; padding:20px 0px; margin-bottom:20px;}
+.toph2{display: inline-block; margin-bottom:20px;vertical-align: middle; font:24px "微软雅黑"; float:left;font-size: 24px;color: #333333;font-weight: bold; padding-left:10px;background:url(../images/title_bg.png) no-repeat left center;}
+.col-md-2{margin:0 19px;}
+.md2_box{ width:175px; margin:0 auto; border:1px solid  #CCC; }
+.img{width:174px; height:134px;display:block; margin:0 auto;}
+.img_pro{ width:175px;margin-top:10px; text-align:center; }
+.img_pro .buta{ margin-left:20px;}
+.img1{ height:194px;}
+.box-text{ text-align:center;}
+.col-md-5{margin:10px 48px;}
+.btn_bg{ width:100%;background:#f7f7f7; padding:20px; margin-bottom:20px;}
+
+.col-md-3>a{ display:block; width:240px; height:68px; margin:0 auto; background:url(../images/jo_button_gree.png) no-repeat; text-align:center; padding-top:15px;color:#FFF; font:24px "微软雅黑";}
+.col-md-3>a:hover{ color:#FFF; text-decoration:none;}
+.col-md-3>a.abg{ background:url(../images/jo_button_tangerine.png) no-repeat;}
+.row ul li{ float:left; margin-left:20px;}
+.row ul li a{ color:#999;}
+footer{ width:100%;background:#2b2b2b; padding:20px; color:#999;}
+footer a{ color:#999;}
+footer a:hover{ color:#999;}
+
+
